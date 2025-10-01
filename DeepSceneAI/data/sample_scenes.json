@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "id": "project_001",
+      "title": "Neo City Chronicles",
+      "scenes": [
+        {
+          "scene_id": "scn_001",
+          "genre": "sci-fi",
+          "description": "A detective walks through neon-lit alleys, chasing a rogue android.",
+          "characters": ["Detective Aria", "Rogue Android"],
+          "setting": "Cyberpunk city at night",
+          "mood": { "mood": "tense", "confidence": 0.87 },
+          "image_prompt": "Dark neon alleyway, futuristic cyberpunk detective chasing an android"
+        },
+        {
+          "scene_id": "scn_002",
+          "genre": "sci-fi",
+          "description": "Inside a hacker’s den full of glowing monitors and wires.",
+          "characters": ["Hacker Lin"],
+          "setting": "Cluttered underground den",
+          "mood": { "mood": "mysterious", "confidence": 0.78 },
+          "image_prompt": "Underground cyberpunk hacker den glowing with monitors and cables"
+        }
+      ]
+    },
+    {
+      "id": "project_002",
+      "title": "Whispers of the Manor",
+      "scenes": [
+        {
+          "scene_id": "scn_003",
+          "genre": "horror",
+          "description": "Two friends explore an abandoned Victorian mansion with flickering candles.",
+          "characters": ["Elena", "Marcus"],
+          "setting": "Dusty Victorian hallway",
+          "mood": { "mood": "fearful", "confidence": 0.92 },
+          "image_prompt": "Haunted Victorian mansion hallway, dim candlelight, eerie shadows"
+        },
+        {
+          "scene_id": "scn_004",
+          "genre": "horror",
+          "description": "A ghostly figure appears in the cracked mirror of the bathroom.",
+          "characters": ["Ghostly Figure"],
+          "setting": "Broken Victorian bathroom mirror",
+          "mood": { "mood": "terrifying", "confidence": 0.95 },
+          "image_prompt": "Cracked bathroom mirror reflecting ghostly apparition"
+        }
+      ]
+    },
+    {
+      "id": "project_003",
+      "title": "Laughter in the Sun",
+      "scenes": [
+        {
+          "scene_id": "scn_005",
+          "genre": "comedy",
+          "description": "A chef slips on a banana peel during a live cooking show.",
+          "characters": ["Chef Roberto"],
+          "setting": "Television cooking set",
+          "mood": { "mood": "funny", "confidence": 0.85 },
+          "image_prompt": "Bright TV cooking show, chef slipping on banana peel mid-broadcast"
+        },
+        {
+          "scene_id": "scn_006",
+          "genre": "comedy",
+          "description": "Friends accidentally swap luggage at the airport, causing chaos.",
+          "characters": ["Tom", "Lily"],
+          "setting": "Busy airport terminal",
+          "mood": { "mood": "lighthearted", "confidence": 0.81 },
+          "image_prompt": "Crowded airport terminal, two friends frantically swapping luggage"
+        }
+      ]
+    }
+  ]
+}

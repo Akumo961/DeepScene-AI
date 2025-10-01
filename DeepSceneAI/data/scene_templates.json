@@ -1,0 +1,80 @@
+{
+  "action": {
+    "templates": [
+      "A high-speed car chase through city streets with explosions",
+      "Two warriors fighting with swords on a cliff edge",
+      "A heist scene in a bank vault with lasers and alarms",
+      "Soldiers advancing through a war zone with gunfire"
+    ],
+    "keywords": ["fight", "chase", "explosion", "battle", "action", "combat", "gun", "sword", "war"],
+    "style": "dynamic composition, high contrast, dramatic lighting, motion blur",
+    "mood": "intense, energetic, adrenaline-filled",
+    "camera_angles": ["low angle", "dutch angle", "tracking shot", "wide shot"],
+    "color_palette": ["dark", "high contrast", "orange and teal", "desaturated"]
+  },
+  "drama": {
+    "templates": [
+      "Two people having an emotional conversation in a living room",
+      "A character looking out a window during rain, contemplating",
+      "A family dinner with underlying tension",
+      "A character receiving life-changing news"
+    ],
+    "keywords": ["emotion", "conversation", "relationship", "family", "personal", "intimate"],
+    "style": "natural lighting, intimate framing, warm colors, shallow depth of field",
+    "mood": "emotional, personal, contemplative",
+    "camera_angles": ["medium shot", "close-up", "over-the-shoulder", "two-shot"],
+    "color_palette": ["warm tones", "natural colors", "golden hour", "soft lighting"]
+  },
+  "horror": {
+    "templates": [
+      "A dark hallway with flickering lights and shadows",
+      "Someone investigating strange noises in an old house",
+      "A figure lurking in the background of a seemingly normal scene",
+      "Characters trapped in a scary location"
+    ],
+    "keywords": ["dark", "scary", "shadow", "mystery", "fear", "haunted", "supernatural"],
+    "style": "low-key lighting, high contrast, desaturated colors, atmospheric",
+    "mood": "suspenseful, eerie, frightening",
+    "camera_angles": ["low angle", "extreme close-up", "handheld", "POV shot"],
+    "color_palette": ["blue and black", "desaturated", "high contrast", "cold tones"]
+  },
+  "romance": {
+    "templates": [
+      "A couple sharing a romantic dinner by candlelight",
+      "Two people walking hand in hand on a beach at sunset",
+      "A first kiss under the stars",
+      "A couple dancing in an empty room"
+    ],
+    "keywords": ["love", "kiss", "romance", "couple", "intimate", "tender", "relationship"],
+    "style": "soft lighting, warm colors, gentle focus, romantic atmosphere",
+    "mood": "romantic, tender, heartwarming",
+    "camera_angles": ["medium shot", "close-up", "two-shot", "crane shot"],
+    "color_palette": ["warm tones", "golden hour", "soft pastels", "pink and gold"]
+  },
+  "comedy": {
+    "templates": [
+      "Characters in an absurd situation with exaggerated expressions",
+      "A slapstick sequence with physical comedy",
+      "Misunderstanding between characters leading to chaos",
+      "Characters trying to hide something obvious"
+    ],
+    "keywords": ["funny", "comedy", "humor", "laugh", "absurd", "silly", "mishap"],
+    "style": "bright lighting, vibrant colors, clear composition, energetic",
+    "mood": "lighthearted, fun, amusing",
+    "camera_angles": ["wide shot", "medium shot", "reaction shot", "establishing shot"],
+    "color_palette": ["bright colors", "vibrant", "high saturation", "cheerful tones"]
+  },
+  "thriller": {
+    "templates": [
+      "Someone being followed through dark city streets",
+      "A tense confrontation in a secluded location",
+      "Characters discovering a dangerous secret",
+      "A race against time to prevent disaster"
+    ],
+    "keywords": ["suspense", "tension", "mystery", "chase", "danger", "secret", "conspiracy"],
+    "style": "dramatic lighting, sharp contrasts, cool colors, dynamic composition",
+    "mood": "tense, suspenseful, edge-of-seat",
+    "camera_angles": ["dutch angle", "close-up", "tracking shot", "high angle"],
+    "color_palette": ["blue and gray", "cold tones", "high contrast", "noir-style"]
+  }
+}
